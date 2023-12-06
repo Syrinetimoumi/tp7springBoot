@@ -1,13 +1,10 @@
-package com.example.models;
+package com.example.tp7.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-import java.lang.annotation.Inherited;
-
-import javax.annotation.processing.Generated;
 
 @Entity
 public class Property {

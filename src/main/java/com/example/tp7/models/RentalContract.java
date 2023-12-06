@@ -1,5 +1,4 @@
-package com.example.models;
-
+package com.example.tp7.models;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -24,6 +23,5 @@ public class RentalContract {
     
     private double monthlyRent;
 
-    // getters and setters
 }
 
